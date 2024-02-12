@@ -2766,11 +2766,11 @@ hr {
   transition: all 0.4s ease-in-out;
 }
 .cs_btn.cs_style_1::before {
-  background-image: linear-gradient(134deg, #307bc4 0%, #274760 100%);
+  background-image: linear-gradient(134deg, #12372A 0%, #12372A 100%);
 }
 .cs_btn.cs_style_1::after {
-  background-image: -webkit-gradient(linear, right top, left top, from(#307bc4), to(#274760));
-  background-image: linear-gradient(270deg, #307bc4 0%, #274760 100%);
+  background-image: -webkit-gradient(linear, right top, left top, from(#03DFB6), to(#03DFB6));
+  background-image: linear-gradient(270deg, #03DFB6 0%, #03DFB6 100%);
   opacity: 0;
 }
 .cs_btn.cs_style_1:hover::before {
