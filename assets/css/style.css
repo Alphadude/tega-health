@@ -5960,9 +5960,7 @@ a.ui-button:active,
           transform: translateY(-50%);
   background-color: #fff;
   width: 70px;
-  -webkit-box-shadow: 0px 4px 21px 1px rgba(48, 123, 196, 0.1);
-          box-shadow: 0px 4px 21px 1px rgba(48, 123, 196, 0.1);
-  opacity: 0;
+ 
 }
 @media (max-width: 991px) {
   .cs_department_carousel .cs_slider_navigation.cs_style_1 .cs_slider_prev,
@@ -11492,12 +11490,8 @@ a.ui-button:active,
 .cs_departments.cs_style_1 .cs_department:hover {
   -webkit-transform: translateY(-20px);
           transform: translateY(-20px);
-  background-color: #307bc4;
 }
-.cs_departments.cs_style_1 .cs_department:hover img {
-  -webkit-filter: brightness(0) invert(1);
-          filter: brightness(0) invert(1);
-}
+
 .cs_departments.cs_style_1 .cs_department:hover .cs_heading_color {
   color: #fff;
 }
