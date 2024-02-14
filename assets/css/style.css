@@ -9466,7 +9466,7 @@ a.ui-button:active,
 .cs_iconbox.cs_style_7 .cs_iconbox_btn {
   width: 90px;
   height: 70px;
-  background-color: rgba(48, 123, 196, 0.5);
+  background-color: rgba(18, 55, 42, 1);
   border-radius: 10px 0 20px 0;
   position: absolute;
   right: 0;
@@ -9730,7 +9730,7 @@ a.ui-button:active,
 }
 
 .cs_iconbox_8_wrap {
-  background: linear-gradient(172deg, #d2eaef 0%, #86bbf1 100%);
+  background: linear-gradient(172deg, #12372A 0%, #12372A 100%);
 }
 @media (max-width: 1400px) {
   .cs_iconbox_8_wrap {
